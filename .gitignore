@@ -1,0 +1,14 @@
+build/
+.cache/
+.idea/
+# Local credentials and development output
+.DS_Store
+.env
+.env.*
+!.env.example
+.codex/
+.claude/
+/tmp/
+/dist/
+/target/
+/build/
